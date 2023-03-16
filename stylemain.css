@@ -1,0 +1,58 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+body
+{
+       background: url('newbg2.jfif');
+       background-size: cover;
+       height: 00vh;
+       color: white;
+       animation:.10s linear 1s infinite alternate slidein ;      
+}
+.tagline
+{
+    font-family: monospace;
+}
+.midia
+{
+    text-align: center;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.wrapper
+{
+    margin: 0;
+    top: 10%;
+    color:white;
+    text-align: center;
+    font-family: cursive;
+    box-shadow: 0 0 10px rgba(0,0,0,0.13);
+     box-shadow: 0 0 10px rgba(0,0,0,0.13);
+}
+
+
+
+.infoo
+{
+    text-align: center;
+    font-family: fantasy;
+}
+.About
+{
+    text-align: center;  
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+.images
+{
+
+    margin: 0;
+    bottom: 10%;
+    text-align: center;
+    font-family: cursive;
+}
+ 
+
